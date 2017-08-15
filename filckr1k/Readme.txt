@@ -1,1 +1,0 @@
-Get images from https://drive.google.com/open?id=0BwYu9MlzdpQhQ0ZuTXVUYnRFSzQ and add them to images/flickr1k/all images.
